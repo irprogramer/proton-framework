@@ -1,0 +1,21 @@
+{
+  "name": "proton-framework",
+  "version": "1.0.0",
+  "description": "open source js frontend framework",
+  "main": "dist/app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irprogramer/proton-framework.git"
+  },
+  "keywords": [],
+  "author": "IR Programmer <github.com/irprogrammer>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irprogramer/proton-framework/issues"
+  },
+  "homepage": "https://github.com/irprogramer/proton-framework#readme"
+}
